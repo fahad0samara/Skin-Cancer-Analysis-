@@ -31,7 +31,6 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/skin-cancer-analysis.git
 cd skin-cancer-analysis
 ```
 
