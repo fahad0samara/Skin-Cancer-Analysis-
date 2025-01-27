@@ -1,0 +1,26 @@
+skin_cancer_project/
+├── data/
+│   ├── Train/
+│   └── Test/
+├── src/
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── skin_cancer_model.py
+│   ├── analysis/
+│   │   ├── __init__.py
+│   │   ├── data_analysis.py
+│   │   ├── statistical_analysis.py
+│   │   └── ml_analysis.py
+│   └── visualization/
+│       ├── __init__.py
+│       └── plotting.py
+├── notebooks/
+│   └── skin_cancer_analysis.ipynb
+├── web/
+│   ├── templates/
+│   ├── static/
+│   └── app.py
+├── tests/
+│   └── __init__.py
+├── requirements.txt
+└── README.md
